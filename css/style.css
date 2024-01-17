@@ -9,3 +9,5 @@
 /*Componentes*/
 @import "./utilidades/componentes.css";
 
+/*Bicicletas*/
+@import "./bicicletas/bicicletas-lista.css";
